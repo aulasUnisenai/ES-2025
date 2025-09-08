@@ -38,4 +38,5 @@ teste_2_passar <- 1 - 0.25
 teste_3_passar <- 1 - 0.4
 
 testes_passar <- teste_1_passar * teste_2_passar * teste_3_passar
+
 testes_passar
