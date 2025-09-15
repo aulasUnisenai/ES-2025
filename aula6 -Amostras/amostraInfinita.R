@@ -1,11 +1,10 @@
-# POPULAÇÃO INFINITA
-# Proporção estimada do evento de interesse na população
+# ProporÃ§Ã£o estimada do evento de interesse na populaÃ§Ã£o
 p <- 0.5
 
-# Erro máximo desejado (fração)
+# Erro mÃ¡ximo desejado
 e <- 0.05
 
-# Valor crítico para um nível de confiança de 95%
+# Valor crÃ­tico para um nÃ­vel de confianÃ§a de 95%
 Z <- 1.96
 
 # Calcular o tamanho da amostra
